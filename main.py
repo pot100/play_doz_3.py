@@ -4,7 +4,7 @@ import random
 import telebot
 
 # Creating a bot instance with the token
-BOT_TOKEN = '00000#dsifa1335kfks5063283djsfja583743'
+BOT_TOKEN = '6215547483:AAFEBUKJn1F4O1qCiqSxSDYgzWalOrbGjwo'
 bot = telebot.TeleBot(BOT_TOKEN)
 # Creating a 2D array for the board
 board = [['-', '-', '-'],
